@@ -2,7 +2,7 @@
 
 Premium library for iOS for subscribers only.
 
-* The main goal for this framework is to protect your app from MITM attacks.
+* The main goal for this framework is to protect your app from MITM attacks and intrusion prevention.
 
 ## Subscription
 
