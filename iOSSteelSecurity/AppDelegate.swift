@@ -2,12 +2,12 @@
 //  AppDelegate.swift
 //  iOSSteelSecurity
 //
-//  Created by mohammed on 2020-01-06.
+//  Created by ScanMyApps on 2020-01-06.
 //  Copyright © 2020 ScanMyApps. All rights reserved.
 //
 
 import UIKit
-
+import ScanMyApps
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -15,6 +15,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        ScanMyApps.com.fullSecure()
+        
         return true
     }
 

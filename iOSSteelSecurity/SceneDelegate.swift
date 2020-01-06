@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  iOSSteelSecurity
 //
-//  Created by mohammed on 2020-01-06.
+//  Created by ScanMyApps on 2020-01-06.
 //  Copyright © 2020 ScanMyApps. All rights reserved.
 //
 

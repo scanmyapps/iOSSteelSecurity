@@ -1,0 +1,11 @@
+framework module ScanMyApps {
+  umbrella header "ScanMyApps.h"
+
+  export *
+  module * { export * }
+}
+
+module ScanMyApps.Swift {
+    header "ScanMyApps-Swift.h"
+    requires objc
+}
